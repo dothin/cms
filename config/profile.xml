@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+	<taglib>
+		<name>webname</name>
+		<value>dothin--bbs</value>
+	</taglib>
+	
+	<taglib>
+		<name>pagesize</name>
+		<value>15</value>
+	</taglib>
+
+</root>
